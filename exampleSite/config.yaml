@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是Sobody的网站
+        subtitle: 这是Sobody的博客网站
         avatar:
             enabled: true
             local: true
@@ -196,7 +196,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/Acoucou/hugo-theme-stack
+          url: https://github.com/keanSox/Sobody
           params:
               icon: brand-github
 
